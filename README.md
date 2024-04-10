@@ -2,6 +2,10 @@
 
 ## Projetos Desenvolvidos
 
+### Project 6 - Zuber
+[![Projeto 6](https://img.shields.io/badge/GitHub-Ver%20Repositório-blue?logo=github)](https://github.com/JulioLima97/Projeto-6)  
+Bibliotecas: pandas, numpy, matplotlib, seaborn, scipy
+##
 ### Project 5 - Online Ice Games Store
 [![Projeto 5](https://img.shields.io/badge/GitHub-Ver%20Repositório-blue?logo=github)](https://github.com/JulioLima97/Projeto-5)  
 Bibliotecas: pandas, numpy, matplotlib, seaborn, scipy
